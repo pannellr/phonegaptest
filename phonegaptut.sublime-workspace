@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trip",
+				"trip_count"
+			],
+			[
+				"stop",
+				"stop_count"
+			],
+			[
+				"tran",
+				"transfer_count"
+			],
+			[
+				"_",
+				"_database_pass"
+			],
+			[
+				"_database",
+				"_database_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pannellr/sandbox/phonegap/phonegap-workshop-master"
+	],
+	"file_history":
+	[
+		"/home/pannellr/sandbox/phonegap/phonegap-workshop-master/nodewebsocket.sublime-project",
+		"/home/pannellr/sandbox/phonegap/phonegap-workshop-master/index.html",
+		"/home/pannellr/sandbox/nodejs/webgame/package.json",
+		"/home/pannellr/sandbox/nodejs/webgame/server.js",
+		"/home/pannellr/sandbox/nodejs/webgame/index.html",
+		"/home/pannellr/Projects/clean.py",
+		"/home/pannellr/Projects/gomaritimes.ca/sites/all/modules/gtfs_manager/stop_time.pages.inc",
+		"/home/pannellr/Projects/gomaritimes.ca/sites/all/modules/gtfs_manager/stop.pages.inc",
+		"/home/pannellr/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pannellr/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "phonegaptut.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"stop_tme",
+				"sites/all/modules/gtfs_manager/stop_time.pages.inc"
+			],
+			[
+				"stop",
+				"sites/all/modules/gtfs_manager/stop.pages.inc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
